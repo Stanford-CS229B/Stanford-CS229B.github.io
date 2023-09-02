@@ -1,5 +1,5 @@
 ---
-title: Week 10 - Advanced topics
+title: Week 10,11 - Advanced topics
 ---
 
 Nov 27
