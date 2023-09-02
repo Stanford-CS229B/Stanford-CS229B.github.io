@@ -17,10 +17,10 @@ Your class project is an opportunity for you to explore an interesting sequence 
 Projects can be done by you as an individual, or in teams of two students. You can discuss your ideas and approach with the instructors, but of course the final responsibility to define and execute an interesting piece of work is yours.
 
 The final project is worth 40% of your grade, which will be split amongst four deliverables:
-- A project proposal (feedback, but no grade), due on October 23rd by 11:59pm.
-- A project milestone (10% of the final grade), due on November 13th by 11:59pm.
-- A project poster presentation (10% of the final grade), on December 6th from 1:30-3:00pm (class time).
-- A final report (20% of the final grade), due on December 11th by 11:59pm.
+- A project proposal (feedback, but no grade), due on **October 23rd by 11:59pm**.
+- A project milestone (10% of the final grade), due on **November 13th by 11:59pm**.
+- A project poster presentation (10% of the final grade), on **December 6th from 1:30-3:00pm (class time)**.
+- A final report (20% of the final grade), due on **December 11th by 11:59pm**.
 
 Your project will be evaluated by three criteria:
 - Technical Depth: How technically challenging was what you did?
