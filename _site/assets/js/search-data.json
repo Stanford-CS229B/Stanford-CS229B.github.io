@@ -1,0 +1,308 @@
+{"0": {
+    "doc": "Just the Class",
+    "title": "Just the Class",
+    "content": "Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for: . | announcements, | a course calendar, | a staff page, | and a weekly schedule. | . Just the Class is a template that extends the popular Just the Docs theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as: . | automatic navigation structure, | instant, full-text search and page indexing, | and a set of UI components and authoring utilities. | . ",
+    "url": "http://localhost:4000/spring2022/index.html",
+    "relUrl": "/index.html"
+  },"1": {
+    "doc": "Just the Class",
+    "title": "Getting Started",
+    "content": "Getting started with Just the Class is simple. | Create a new repository based on Just the Class. | Update _config.yml and README.md with your course information. Be sure to update the url and baseurl. | Configure a publishing source for GitHub Pages. Your course website is now live! | Edit and create .md Markdown files to add more content pages. | . Just the Class has been used by instructors at Stanford University (CS 161), UC Berkeley (Data 100), UC Santa Barbara (DS1), Northeastern University (CS4530/5500), and Carnegie Mellon University (17-450/17-950). Share your course website and find more examples in the show and tell discussion! . Local development environment . Just the Class requires no special Jekyll plugins and can run on GitHub Pages’ standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on Testing your GitHub Pages site locally with Jekyll. ",
+    "url": "http://localhost:4000/spring2022/index.html#getting-started",
+    "relUrl": "/index.html#getting-started"
+  },"2": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/about/",
+    "relUrl": "/about/"
+  },"3": {
+    "doc": "About",
+    "title": "Table of contents",
+    "content": ". | About | Lecture | Resources | Assignments | . ",
+    "url": "http://localhost:4000/spring2022/about/#table-of-contents",
+    "relUrl": "/about/#table-of-contents"
+  },"4": {
+    "doc": "About",
+    "title": "About",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
+    "url": "http://localhost:4000/spring2022/about/",
+    "relUrl": "/about/"
+  },"5": {
+    "doc": "About",
+    "title": "Lecture",
+    "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
+    "url": "http://localhost:4000/spring2022/about/#lecture",
+    "relUrl": "/about/#lecture"
+  },"6": {
+    "doc": "About",
+    "title": "Resources",
+    "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
+    "url": "http://localhost:4000/spring2022/about/#resources",
+    "relUrl": "/about/#resources"
+  },"7": {
+    "doc": "About",
+    "title": "Assignments",
+    "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
+    "url": "http://localhost:4000/spring2022/about/#assignments",
+    "relUrl": "/about/#assignments"
+  },"8": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "http://localhost:4000/spring2022/announcements/",
+    "relUrl": "/announcements/"
+  },"9": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "http://localhost:4000/spring2022/announcements/",
+    "relUrl": "/announcements/"
+  },"10": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "http://localhost:4000/spring2022/announcements/",
+    "relUrl": "/announcements/"
+  },"11": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/calendar/",
+    "relUrl": "/calendar/"
+  },"12": {
+    "doc": "Calendar",
+    "title": "Week 1 - Course Intro",
+    "content": "Mar 29 Lecture 1 Review I HW 0 out . | Point estimation, MLE, Linear regression and classification | Reading: . | PML1 1.1-1.4, 11.1-11.2, 10.1-10.2 | (Optional) ESL 1, 2.3.1, 3.1-3.2, 4.1, 4.4.1-4.4.2 | . | . Mar 31 Lecture 2 Reiview II   . | Assessing performance, Overfitting, Bias-variance tradeoff | Reading: . | ESL 7.1-7.4 | (Optional) PML1 4.7.6 | . | . ",
+    "url": "http://localhost:4000/spring2022/calendar/#week-1-course-intro",
+    "relUrl": "/calendar/#week-1-course-intro"
+  },"13": {
+    "doc": "Calendar",
+    "title": "Week 2, 3, 4 - Non-linear regression and classification",
+    "content": "Apr 5 Lecture 3 Decision trees I HW 0 due HW 1 out CQO: intro . | Decision trees | Reading: . | PML1 18.1 | (Optional) ESL 9.2.1-9.2.3 | . | . Apr 7 Lecture 4 Decision trees II   . | Decision trees, Boosting, Adaboost | Reading: . | PML1 18.4-18.5 | (Optional) ESL 9.2.4, 10.1-10.10, 15.1-15.4, | (Optional) Explaining Adaboost | . | . Apr 12 Lecture 5 Decision trees III   CQ1: decision trees . | AdaBoost cont’d, gradient boosting | Reading: . | PML1 5.1.4 | . | . Apr 14 Lecture 6 Decision trees IV   . | Gradient boosting cont’d, random forests, missing data, precision and recall | Reading: . | PML1 5.1.4 | . | . Apr 19 Lecture 7 Deep learning I HW 1 due HW 2 out . | Deep learning intro, single and multilayer networks | Reading: . | PML2 16.1-16.3 | . | . Apr 21 Lecture 8 Deep learning II   . | Back propagation | Reading: . | PML2 16.4 | . | . Apr 26 Lecture 9 Deep learning III Project Proposal due CQ2: deep learning . | Convnets, Transfer learning | Reading: . | see L6 reading | . | . ",
+    "url": "http://localhost:4000/spring2022/calendar/#week-2-3-4-non-linear-regression-and-classification",
+    "relUrl": "/calendar/#week-2-3-4-non-linear-regression-and-classification"
+  },"14": {
+    "doc": "Calendar",
+    "title": "Week 5, 6, 7, 8 - Unsupervised Learning",
+    "content": "Apr 28 Lecture 10 Clustering I   . | Clustering and unsupervised learning, K-means clustering | Reading: . | PML1 21.1, 21.3 | (Optional) ESL 14.3.6 | . | . May 3 Lecture 11 Clustering II HW 2 due HW 3 out . | Mixture of Gaussians, EM algorithm | Reading: . | PML1 21.4, PML2 29.2, PML1 8.7 | PML2 6.6.3-6.6.4 | . | . May 5 Lecture 12 Clustering III   . | EM algorithm, Connection to K-means, Hierarchical clustering | Reading: . | ESL 14.3.7, 14.3.12 | PML1 21.2 | . | . May 10 Lecture 13 Latent embeddings I   CQ3: clustering, EM, PCA . | PCA, Factor analysis, EM algorithm for Factor analysis | Reading: . | PML1 20.1 20.2 | PML2 29.3, 29.6 | (Optional) ESL 14.5.1, 14.7.1-14.7.2 | . | . May 12 Lecture 14 Latent embeddings II Project Midway due . | Autoencoders, Variational autoencoders | Reading: . | PML1 20.3 | PML2 21.1-21.3, 22.1-22.2 | . | . May 17 Lecture 15 Matrix Factorization I HW 3 due HW 4 out . | Collaborative filtering via matrix factorization | Reading: . | PML1 22.1 | . | . May 19 Lecture 16 Matrix Factorization II   . | NMF, Probabilistic matrix factorization, Performance metrics, Graph NN | Reading: . | PML2 16.3.5, 29.5.1 | (Optional) ESL 14.6 | . | . ",
+    "url": "http://localhost:4000/spring2022/calendar/#week-5-6-7-8-unsupervised-learning",
+    "relUrl": "/calendar/#week-5-6-7-8-unsupervised-learning"
+  },"15": {
+    "doc": "Calendar",
+    "title": "Week 9, 10 - Time Series",
+    "content": "May 24 Lecture 17 Time Series I   CQ4: autoencoders, matrix factorization . | HMMs and state space models, Forward-backward algorithm and Kalman filtering/smoothing | Reading: . | PML2 4.2, 8.1-8.4 | PML2 30.1-30.4, 31.1-31.2 | (Optional) A Tutorial on Hidden Markov Models ans Selected Applications in Speech Recognition | . | . May 26 Lecture 18 Time Series II   . | EM for state space models, RNNs and CNNs for time series | Reading: . | PML2 4.2, 8.1-8.4 | PML2 30.1-30.4, 31.1-31.2 | (Optional) Deep Learning Ch.10 | (Optional) Forecasting Big Time Seires; Theory and Practice | . | . May 31 Lecture 19 Time Series III HW 4 due CQ5: SSMs, deep learning for sequence data . | RNNs and CNNs for time series, cont’d; Course wrapup | Reading: . | PML2 16.3.3-16.3.4, 23, 31.5 | (Optional) Deep Learning Ch.10 | (Optional) Forecasting Big Time Seires; Theory and Practice | . | . ",
+    "url": "http://localhost:4000/spring2022/calendar/#week-9-10-time-series",
+    "relUrl": "/calendar/#week-9-10-time-series"
+  },"16": {
+    "doc": "Homework",
+    "title": "General Homework Information",
+    "content": ". | Homework assignments will be released on Canvas. | Submission Guidelines: . | Homeworks must be submitted by 11:59pm on the due date. | You are allowed 3 LATE DAYs throughout the entire quarter, as detailed in Late Day Policy section. | All homeworks should be submitted via Gradescope. | You will receive an invite to Gradescope for STATS315B Spring 2022. If you have not received an invite email after the first few days of class, first log in to Gradescope with your @stanford.edu email and see whether you find the course listed; if not, please post a private message on Ed for us to add you. | . | Important Honor code and Collaboration policy rules apply to all homework. | . ",
+    "url": "http://localhost:4000/spring2022/homeworks/#general-homework-information",
+    "relUrl": "/homeworks/#general-homework-information"
+  },"17": {
+    "doc": "Homework",
+    "title": "Homework Assignments",
+    "content": ". | Homework 0 (basics), due 4/5 | Homework 1 (decision trees), due 4/19 | Homework 2 (deep learning), due 5/3 | Homework 3 (clustering, EM, PCA), due 5/17 | Homework 4 (autoencoders, matrix factorization, state space models), due 5/31 | . ",
+    "url": "http://localhost:4000/spring2022/homeworks/#homework-assignments",
+    "relUrl": "/homeworks/#homework-assignments"
+  },"18": {
+    "doc": "Homework",
+    "title": "Homework",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/homeworks/",
+    "relUrl": "/homeworks/"
+  },"19": {
+    "doc": "Home",
+    "title": "STATS 315B - Modern Applied Statistics",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/#stats-315b---modern-applied-statistics",
+    "relUrl": "/#stats-315b---modern-applied-statistics"
+  },"20": {
+    "doc": "Home",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . [Announcements](/spring2022/announcements/){: .btn .btn-outline .fs-3 } --> This course provides a broad and deep treatment of modern statistical machine learning topics. Students entering the course are assumed to have foundational working knowledge in statistics, probability, and basic machine learning concepts, though the course has been designed to provide a broadly accessible treatment of the topics covered. The course starts with a quick review of linear regression and classification, error metrics, and the bias-variance tradeoff. We then delve into decision trees and deep learning techniques for non-linear regression and classification tasks. The subsequent modules move beyond regression and classification tasks and turn to discovering patterns and low-dimensional structure via unsupervised learning. Topics include clustering, dimensionality reduction and autoencoding methods, and matrix factorization. The last module considers time series and sequential data sources via state space models and deep learning methods. ",
+    "url": "http://localhost:4000/spring2022/",
+    "relUrl": "/"
+  },"21": {
+    "doc": "Home",
+    "title": "Teaching team",
+    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm via Zoom (link posted on Canvas) . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Samir Khan . Teaching Assistant . Office Hours: Tue 2:30-4:30pm @ Econ 206 . Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:30pm @ Hewlett 103 . ",
+    "url": "http://localhost:4000/spring2022/#teaching-team",
+    "relUrl": "/#teaching-team"
+  },"22": {
+    "doc": "Home",
+    "title": "Course Logistics",
+    "content": "  . When: Class is Tuesdays and Thursdays 9:45-11:15am PST. Where: Class will be in person at NVDIA Auditorium. Links: . | Ed: This is the main way that you and the teaching team should communicate: we will post all important announcements here, and you should ask all course-related questions here. For personal matters that you don’t wish to put in a private Ed post, you can email the teaching staff at stats315b-spr2122-staff@lists.stanford.edu. | Canvas: The course Canvas page contains links and resources only accessible to students. | Gradescope: We use Gradescope for managing coursework (turning in, returning grades). Please use your @stanford.edu email address to sign up for a Gradescope account. | . Prerequisites: A well-prepared student will have knowledge of: . | Math: . | Linear algebra (matrix/vector operations, orthogonality, etc.) | Multivariate calculus (gradients, partial derivatives) | . | Probability: . | Random variables, expectations, Gaussian distribution, conditional and marginal distributions | . | Statistics / machine learning basics: . | Linear regression and classification and, ideally, overfitting and bias-variance tradeoff | Parameter estimation, including via maximum likelihood estimation | . | Programming proficiency in: . | Python (preferred for this course), or | R, Julia, etc. with an ability to (i) pivot to Python with starter code or (ii) code independently in selected language | . | . From experience, eager students with a strong quantitative background are able to catch up and fully participate. Course Grade: The course grade will be based on the following components. | 5 Homework Assignments (45%): HW0 (5%), HW1 - HW4 (40%) | Concept Quizzes (15%) | Final Project (40%): Project midway (10%), Project presentation (10%), Project report (20%) | . Textbooks: . | Probabilistic Machine Learning: An Introduction; Kevin Murphy | Probabilistic Machine Learning: Advanced Topics; Kevin Murphy | The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (12th printing); Trevor Hastie, Robert Tibshirani, Jerome Friedman | . Other references: . | A Course in Machine Learning; Hal Duame III | Pattern Recognition and Machine Learning; Chris Bishop | Machine Learning; Tom Mitchell | Information Theory, Inference, and Learning Algorithms; David MacKay | . ",
+    "url": "http://localhost:4000/spring2022/#course-logistics",
+    "relUrl": "/#course-logistics"
+  },"23": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/",
+    "relUrl": "/"
+  },"24": {
+    "doc": "Lectures",
+    "title": "Lecture notes",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/lectures/#lecture-notes",
+    "relUrl": "/lectures/#lecture-notes"
+  },"25": {
+    "doc": "Lectures",
+    "title": "Lectures",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/lectures/",
+    "relUrl": "/lectures/"
+  },"26": {
+    "doc": "Policies",
+    "title": "Honor code and collaboration policy",
+    "content": "We strongly encourage students to form study groups. Students may discuss and work on homework problems in groups. However, each student must write down the solution independently, and without referring to written notes from the joint session. Each student must understand the solution well enough in order to reconstruct it by themself. Additionally, each student must write their own code in the programming part of the assignment. When working in study groups, you must indicate on each homework with whom you collaborated. For concept quizzes, these are to be completed completely on your own without discussion. It is an honor code violation to copy, refer to, or look at written or code solutions from a previous year, including but not limited to: official solutions from a previous year, solutions posted online, and solutions you or someone else may have written up in a previous year. Furthermore, it is an honor code violation to post your assignment solutions online, such as on a public git repo. We run plagiarism-detection software on your code against past solutions as well as student submissions from current and previous years. Please take the time to familiarize yourself with the Stanford Honor Code. In summary, we expect students to want to learn and not Google for answers or copy those of other students. The purpose of assignments and concept quizzes in this course is to help you think about the material, not just give us the right answers. Please ask us if you are unsure about the use of a particular reference. ",
+    "url": "http://localhost:4000/spring2022/policies/#honor-code-and-collaboration-policy",
+    "relUrl": "/policies/#honor-code-and-collaboration-policy"
+  },"27": {
+    "doc": "Policies",
+    "title": "Regrade policy",
+    "content": "If you feel that we have made an error in grading your homework assignment or concept quiz, please wait 24 hours before submitting a regrade request after grading has been published. Subsequently, submit a regrade request via Gradescope, including a detailed written explanation, within one week of grades being published. Please note that regrading of the work may cause your grade to go up or down. ",
+    "url": "http://localhost:4000/spring2022/policies/#regrade-policy",
+    "relUrl": "/policies/#regrade-policy"
+  },"28": {
+    "doc": "Policies",
+    "title": "Late day policy",
+    "content": "Every student is allotted 3 free LATE DAYs throughout the entire quarter, which may be used on homework assignments, the project proposal, or project milestone. (Late days cannot be used for the final project report or poster due to grading constraints.) . After these late days are exhausted, late assignments will incur a reduction of 33% in the final score for each day (or part thereof) it is late. For example, if an assignment is up to 24 hours late, it incurs a penalty of 33%. Else if it is up to 48 hours late, it incurs a penalty of 66%. And if it is 72 or more hours late, it will receive no credit. You must turn in all homework assignments, even if for zero credit, in order to pass the course. ",
+    "url": "http://localhost:4000/spring2022/policies/#late-day-policy",
+    "relUrl": "/policies/#late-day-policy"
+  },"29": {
+    "doc": "Policies",
+    "title": "General course policies",
+    "content": ". | Gender expression/identity: This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me. | Code of conduct: You are expected to treat the instructional team and your fellow students with courtesy and respect. This class should be a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Harassment of any form will not be tolerated. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. If you are not comfortable approaching the instructional team, you may also contact the Stanford Office of the Ombuds | Students with Documented Disabilities: If you have an OAE letter, please present it to stats315b-spr2122-staff@lists.stanford.edu at your earliest convenience, so we can ensure that the course materials and staff support comply with your needs. | Statement on Recordings: Video cameras located in the back of the room will capture the instructor presentations in this course. For your convenience, you can access these recordings by logging into the course Canvas site. These recordings might be reused in other Stanford courses, viewed by other Stanford students, faculty, or staff, or used for other education and research purposes. Note that while the cameras are positioned with the intention of recording only the instructor, occasionally a part of your image or voice might be incidentally captured. If you have questions, please contact a member of the teaching team. | . ",
+    "url": "http://localhost:4000/spring2022/policies/#general-course-policies",
+    "relUrl": "/policies/#general-course-policies"
+  },"30": {
+    "doc": "Policies",
+    "title": "Course assistance and personal support",
+    "content": "In every quarter we have taught, there have been individual students who have encountered life-altering challenges, so it is not the case that empathy and compassion have only just become relevant. However, the magnitude of the current crises underscores the need to support each other. If you feel overwhelmed for any reason—by work for this class, or a family issue, or just the weight of the present moment for the globe, please do not hesitate to reach out. Additionally, you can learn more about the broad range of confidential mental health services available on campus here. Especially under such conditions, we appreciate your participation in our course, and we will do everything we can to support you. ",
+    "url": "http://localhost:4000/spring2022/policies/#course-assistance-and-personal-support",
+    "relUrl": "/policies/#course-assistance-and-personal-support"
+  },"31": {
+    "doc": "Policies",
+    "title": "Policies",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/policies/",
+    "relUrl": "/policies/"
+  },"32": {
+    "doc": "Projects",
+    "title": "Important Dates",
+    "content": ". | Tues., Apr 26 at 11:59pm: Project Proposals | Thurs., May 12 at 11:59pm: Project Milestone | Date/time/location TBD: Poster Session | Mon., June 6 at 11:59am (yes, am): Project Report | . ",
+    "url": "http://localhost:4000/spring2022/projects/#important-dates",
+    "relUrl": "/projects/#important-dates"
+  },"33": {
+    "doc": "Projects",
+    "title": "Your Course Project",
+    "content": "Your class project is an opportunity for you to explore an interesting machine learning problem in the context of a real-world data set. We are providing some seed project ideas below. You can pick one of these ideas, and explore the data and algorithms within and beyond what we suggest. You can also use your own data/ideas, but, in this case, you have to make sure you have the data available now and a nice roadmap, since a quarter is too short to explore a brand new concept. Projects can be done by you as an individual, or in teams of two students. You can discuss your ideas and approach with the instructors, but of course the final responsibility to define and execute an interesting piece of work is yours. The final project is worth 40% of your grade, which will be split amongst four deliverables: . | A project proposal (feedback, but no grade), due on April 26th by 11:59pm. | A project milestone (10% of the final grade), due on May 12th by 11:59pm. | A project poster presentation (10% of the final grade), on date, time and place TBD. | A final report (20% of the final grade), due on June 6th by 11:59am (yes, am). | . Your project will be evaluated by three criteria: . | Technical Depth: How technically challenging was what you did? | Scope: How broad was your project? How many aspects, angles, variations did you explore? | Presentation: How well did you explain what you did, your results, and interpret the outcomes? Did you use the good graphs and visualizations? How clear was the writing? | . The Technical Depth and Scope are complementary criteria, e.g., if you develop a single elaborate algorithm or model on a small dataset, you may score high on depth but low on scope, while if you try many very simple methods on different datasets, your scope would be higher but the depth lower. ",
+    "url": "http://localhost:4000/spring2022/projects/#your-course-project",
+    "relUrl": "/projects/#your-course-project"
+  },"34": {
+    "doc": "Projects",
+    "title": "Project Proposal",
+    "content": "You must turn in a project proposal on April 26th by 11:59pm via Gradescope. Read the list of available data sets and potential project ideas below. If you prefer to use a different data set, we will consider your proposal, but you must have access to this data already, and present a clear proposal for what you would do with it. Project proposal format: Proposals should be one page maximum. Include the following information: . | Project title | Data set | Project idea. This should be approximately two paragraphs. | Software you will need to write. | Papers to read. Include 1-3 relevant papers. If you are doing something different then one of the suggested projects, you will probably want to read at least one of them before submitting your proposal. | Teammate: will you have a teammate? If so, whom? Maximum team size is two students. One proposal per team. | Milestone: What will you complete by the milestone? Experimental results of some kind are expected here. | . ",
+    "url": "http://localhost:4000/spring2022/projects/#project-proposal",
+    "relUrl": "/projects/#project-proposal"
+  },"35": {
+    "doc": "Projects",
+    "title": "Project Milestone",
+    "content": "A project milestone should be submitted on May 12th by 11:59pm via Gradescope. Your write up should be 3 pages maximum in NeurIPS format, not including references (the templates are for LaTex, if you want to use other editors/options please try to get close to the same format). You should describe the results of your first experiments here. Note that, as with any conference, the page limits are strict! Papers over the limit will not be considered. ",
+    "url": "http://localhost:4000/spring2022/projects/#project-milestone",
+    "relUrl": "/projects/#project-milestone"
+  },"36": {
+    "doc": "Projects",
+    "title": "Poster Session",
+    "content": "We will hold a poster session on Date/Time/Location TBD. Each team will be given a stand to present a poster summarizing the project motivation, methodology, and results. The poster session will give you a chance to show off the hard work you put into your project, and to learn about the projects of your peers. Here are some details on the poster format: . | We will provide poster boards that are 32x40. | Suggested ways to make your poster: . | Create a bunch of presentation slides (using powerpoint, beamer, etc), and print out each side on a piece of letter-sized paper. Then, put them all together on the provided poster board. | If you have access to a poster printer, you are welcome to create a single huge slide and print it out on a poster printer. However, you are not expected to have access to a poster printer, and you will not receive extra “presentation points” if you use this method. | . | . ",
+    "url": "http://localhost:4000/spring2022/projects/#poster-session",
+    "relUrl": "/projects/#poster-session"
+  },"37": {
+    "doc": "Projects",
+    "title": "Project Report",
+    "content": "Your final submission will be a project report on Monday, June 6th at 11:59am (yes, am not pm) via Gradescope. Your write up should be 8 pages maximum in NeurIPS format, not including references (the templates are for LaTex, if you want to use other editors/options please try to get close to the same format). You should describe the task you solved, your approach, the algorithms, the results, and the conclusions of your analysis. Note that, as with any conference, the page limits are strict! Papers over the limit will not be considered. ",
+    "url": "http://localhost:4000/spring2022/projects/#project-report",
+    "relUrl": "/projects/#project-report"
+  },"38": {
+    "doc": "Projects",
+    "title": "Project Ideas",
+    "content": "The course staff has outlined several potential project ideas below. This should give you a sense of the datasets available and an appropriate scope for your project. You can either pick one of these or come up with something of your own to work on. Netflix Challenge . From 2006-2009, Netflix sponsored a competition to improve its movie recommendation system. Their system is based off of predicting what rating a user will give to a particular movie (using a 1-5 star system). In effect, what we have is a matrix where each row represents a user and each column represents a movie. Some elements are filled with past ratings, but most of them are unknown. Students can use matrix factorization or clustering methods to predict the missing values in this matrix. | Data: Ratings | Task: Predict users’ ratings of movies they haven’t seen. | Background: netflixprize.com Wikipedia article | Methods: matrix factorization/SVD, collaborative filtering, clustering, side-information | . Energy forecasting . This project is taken from a Kaggle contest run by the IEEE Power and Energy society. The goal is to predict the total energy load for a US utility across multiple zones, as well as the sum of the energy load across all these zones, based on temperature data. | Data: datasets | Task: Predict the hourly energy load across different zones of the US. (Note that the labels for the weeks meant to be predicted in the original contest are no longer available, so you should choose a random subset of other weeks to use as a test set.) | Background: https://www.kaggle.com/competitions/global-energy-forecasting-competition-2012-load-forecasting/overview/description | Methods: HMM, state space models, boosting (see https://robjhyndman.com/papers/kaggle-competition.pdf for another team’s approach). | . Document Clustering . Documents taken from sources like Wikipedia or the online discussion board Usenet often have word choice that reflects the topic being dicussed – for example, the word “clustering” is much more likely to show up in a document on Computer Science than one about motorcycles. Given the collection of words in a document, it should be possible to predict what subject it is contained in. Alternatively, we might want to try to find documents similar to the one in question: if someone is reading a Wikipedia article on classification, perhaps they would also like to know that there is an article on regression. | Data: Usenet: Original Useful Subsets , Wikipedia: Wikipedia dataset | Task: Search for articles similar to an example, or divide the dataset into clusters. | Background: KM Chapter 25 | Methods: unsupervised learning, K-Means, LDA, spectral clustering | . Digit Recognition . Implement handwriting recognition by classifying pictures (stored as pixel data) as the appropriate digit. This project is based off a tutorial ML competition hosted on kaggle.com . | Data: Kaggle Dataset | Task: Classify an image of a digit | Background: Kaggle Description MNIST database | Methods: multinomial logistic regression, k-nearest neighbor, svm, PCA, cross-validation. | . Federalist Papers . This task involves the famous disputed federalist papers. Some of the papers we know who wrote them and others we do not. The task involves converting the text into a “bag of words” (see attached for more info) feature vector and then attempting to classify the remaining essays as Hamilton or Madison. Students can use cross validation to test predictive power on known essays. This project involves mining text, which may be a challenging component, but it shows a very cool connection between machine learning and history. | Data: Project Gutenberg | Task: Classify disputed papers as Hamilton or Madison | Background: Background | Methods: logistic regression, decision trees, PCA, cross-validation | . Job Salary Prediction . This is another task taken from a Kaggle competition. Given an advertisement for a job opening, the goal is to predict the starting salary for the job being posted. Much of the data about the ads is unstructured text (like the ad content itself), but some structured data is given as well. A tree of the geographic relationships between the job locations is also provided. | Data: Kaggle Dataset | Task: Predict a salary from a job posting | Background: Kaggle Description | Methods: regression, dimensionality reduction, neural networks | . Eigenfaces . The goal of this task is to learn how to recognize faces. We have a set of pictures of 20 people in various directions and expressions, some of which have sunglasses. One major problem with image data is that our input features are individual pixels, which are high-dimensional but not terribly meaningful in isolation. Using PCA, we can decompose our images into eigenvectors, which are linear combinations of pixels (nicknamed “eigenfaces”). Students can explore different classification tasks, from determining the presence of sunglasses to identifying individuals. | Data: Faces Directory | Task: Classify images of faces | Background: .PGM format specification | Methods: dimensionality reduction, PCA, SVM, neural networks | . Human activity recognition . Human activity recognition is the problem of classifying sequences of accelerometer data recorded by smart phones into known well-defined movements. It has numerous applications in healthcare as an assistive technology when ensemble with other technologies like IoT. The dataset is collected from 30 subjects, performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. The goal is to classify sequences of sensor data into the human activities such as walking, walking upstairs, walking downstairs, sitting, standing and laying. | Data: Human Activity Recognition Using Smartphones Data Set | Task: Time series multi-class classification task | Background: Related paper | Method: decision trees, SVM, recurrent neural network with LSTM | . ",
+    "url": "http://localhost:4000/spring2022/projects/#project-ideas",
+    "relUrl": "/projects/#project-ideas"
+  },"39": {
+    "doc": "Projects",
+    "title": "Projects",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/projects/",
+    "relUrl": "/projects/"
+  },"40": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "http://localhost:4000/spring2022/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"41": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"42": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"43": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"44": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"45": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"46": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"47": {
+    "doc": "Sections",
+    "title": "Sections",
+    "content": "There will be four additional sections held by TAs. | Section 1: Probability Review + Python Basics . | Time: Apr 8 11 am - 12 pm | Zoom link posted on Canvas | . | Section 2: PyTorch Review . | Time: Apr 26 6 pm - 7 pm | Zoom link posted on Canvas | Colab Notebook | . | . ",
+    "url": "http://localhost:4000/spring2022/sections/",
+    "relUrl": "/sections/"
+  },"48": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "url": "http://localhost:4000/spring2022/staff/",
+    "relUrl": "/staff/"
+  },"49": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm via Zoom (link posted on Canvas) . ",
+    "url": "http://localhost:4000/spring2022/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"50": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:30pm @ Hewlett 103 . Samir Khan . Teaching Assistant . Office Hours: Tue 2:30-4:30pm @ Econ 206 . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . ",
+    "url": "http://localhost:4000/spring2022/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  }
+}
