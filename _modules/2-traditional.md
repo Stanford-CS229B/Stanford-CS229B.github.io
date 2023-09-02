@@ -8,8 +8,7 @@ Oct 2
 : * Stationarity, autocorrelation
   * Foundational stationary time series models -- Part 1 (AR and MA processes)
   * Reading:
-      1. S&S 1.3-1.5
-      2. S&S 3.1 (up to ARMA)
+      1. S&S 1.3-1.5; S&S 3.1 (up to ARMA)
 
 Oct 4
 : **Lecture 3**{: .label .label-purple }
