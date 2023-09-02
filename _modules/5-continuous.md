@@ -18,3 +18,10 @@ Nov 13
 : * Guest Lecture: Continuous-time modeling via neural ODEs -- Patrick Kidger
   * Reading:
       1. (optional) [Patrick Kidger thesis](https://arxiv.org/abs/2202.02435)
+
+Nov 15
+: **Lecture 15**{: .label .label-purple }
+: **CQ4 due**{: .label .label-green }
+: * Guest Lecture: Neural temporal point processes -- Oleksandr Shchur
+  * Reading:
+      1. (optional) [Oleksandr Shchur thesis](https://shchur.github.io/assets/pdf/phd-thesis.pdf)
