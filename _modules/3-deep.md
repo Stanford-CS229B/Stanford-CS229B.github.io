@@ -1,5 +1,5 @@
 ---
-title: Week 6 - Deep learning-based sequence models
+title: Week 5 - Deep learning-based sequence models
 ---
 
 Oct 23
