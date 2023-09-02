@@ -10,11 +10,11 @@ Sept 27
   * Reading:
       1. S&S 1.2
 
-Apr 5
-: **Lecture 2**{: .label .label-purple } Reiview II
-  : **HW 0 due (4/7 Fri)**{: .label .label-red }  **HW 1 out**{: .label .label-orange }
-: **CQ1 out**{: .label .label-green }: Intro
-: * Assessing performance, Overfitting, Bias-variance tradeoff
+Oct 2
+: **Lecture 2**{: .label .label-purple }
+: **CQ1 out**{: .label .label-green }
+: * Stationarity, autocorrelation
+  * Foundational stationary time series models -- Part 1 (AR and MA processes)
   * Reading:
-      1. **ESL** 7.1-7.4
-      1. (Optional) **PML1** 4.7.6
+      1. S&S 1.3-1.5
+      2. S&S 3.1 (up to ARMA)
