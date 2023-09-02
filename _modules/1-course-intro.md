@@ -2,13 +2,12 @@
 title: Week 1 - Course Intro
 ---
 
-Apr 3
-: **Lecture 1**{: .label .label-purple } Review I 
-  : **HW 0 out**{: .label .label-orange }
-: * Point estimation, MLE, Linear regression and classification
-  * Reading:
-      1. **PML1** 1.1-1.4, 11.1-11.2, 10.1-10.2
-      1. (Optional) **ESL** 1, 2.3.1, 3.1-3.2, 4.1, 4.4.1-4.4.2
+Sept 27
+: **Lecture 1**{: .label .label-purple } Intro; course logistics; defining time series models
+  : **HW0 out (basics on intro stats, ML estimation)**{: .label .label-orange }
+  : **HW1 out (stationarity, ACF, AR models, basic ARMA, forecasting)**{: .label .label-orange }
+: * Reading:
+      1. S&S 1.2
 
 Apr 5
 : **Lecture 2**{: .label .label-purple } Reiview II
