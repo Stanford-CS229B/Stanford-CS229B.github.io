@@ -14,9 +14,27 @@ nav_order: 1
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}-->
 
-This course provides a broad and deep treatment of modern statistical machine learning topics.  Students entering the course are assumed to have foundational working knowledge in statistics, probability, and basic machine learning concepts, though the course has been designed to provide a broadly accessible treatment of the topics covered.  
+Sequence data and time series are becoming increasingly ubiquitous in fields as diverse as bioinformatics, neuroscience, health, environmental monitoring, finance, speech recognition/generation, video processing, and natural language processing.  Machine learning has become an indispensable tool for analyzing such data; in fact, sequence models lie at the heart of recent progress in AI like GPT3.  
 
-The course starts with a quick review of linear regression and classification, error metrics, and the bias-variance tradeoff.  We then delve into decision trees and deep learning techniques for non-linear regression and classification tasks.  The subsequent modules move beyond regression and classification tasks and turn to discovering patterns and low-dimensional structure via unsupervised learning.  Topics include clustering, dimensionality reduction and autoencoding methods, and matrix factorization.  The last module considers time series and sequential data sources via state space models and deep learning methods. 
+This class integrates foundational concepts in time series analysis with modern machine learning methods for sequence modeling.  Connections and key differences will be highlighted.  You will learn theoretical fundamentals, but the focus will be on gaining practical, hands-on experience with modern methods through real-world case studies.  You will walk away with a broad and deep perspective of sequence modeling and key ways in which such data are not just 1D images. 
+
+The course is divided into four modules: 
+- Traditional time series methods
+  - Stationarity, autocorrelation, and basic theoretical constructs
+  - AR, MA, ARMA, and ARIMA/SARIMA models
+  - Forecasting and maximum-likelihood-based estimation
+  - State space models, including HMMs, filtering/smoothing, learning
+- Deep learning-based sequence models
+  - RNNs, gated RNNs, backpropagation through time
+  - CNNs for sequence data
+  - Transformers
+- Advanced topics
+  - Representation learning for time series
+  - State-of-the-art sequence models
+- Continuous-time modeling
+  - Traditional models of event-based data (Poisson processes, Hawkes processes)
+  - Neural temporal point processes
+  - Neural ODEs and hybrid models
 
 ## Teaching team
 
@@ -29,19 +47,13 @@ The course starts with a quick review of linear regression and classification, e
 
 **When**: Class is Mondays and Wednesdays 1:30-2:50pm PST.
 
-**Where**: Class will be in person at
-[Gates B3](https://campus-map.stanford.edu/?srch=Gates+B3).
+**Where**: Class will be in person in [Hewlett 201](https://campus-map.stanford.edu/?srch=Hewlett201).
 
 **Links**:
-- [Ed](https://edstem.org/us/dashboard):
-  This is the main way that you and the teaching team should communicate:
-  we will post all important announcements here, and you should ask
-  all course-related questions here.
-  For personal matters that you don't wish to put in a private Ed post, you can
-  email the teaching staff at [stats315b-spr2223-staff@lists.stanford.edu](mailto:stats315b-spr2223-staff@lists.stanford.edu).
-- [Canvas](https://canvas.stanford.edu/courses/169909): The course Canvas page
-  contains links and resources only accessible to students.
-- [Gradescope](https://www.gradescope.com/courses/524269): We use Gradescope
+- [Ed](https://edstem.org/us/courses/45827/discussion/):
+  This is the main way that you and the teaching team should communicate: we will post all important announcements here, and you should ask all course-related questions here. For personal matters that you don’t wish to put in a private Ed post, you can email the teaching staff at `cs229b-aut2324-staff@lists.stanford.edu`.
+- [Canvas](https://canvas.stanford.edu/courses/180581): The course Canvas page contains links and resources only accessible to students.
+- [Gradescope](https://www.gradescope.com/courses/598920): We use Gradescope
   for managing coursework (turning in, returning grades).  Please use your
   @stanford.edu email address to sign up for a Gradescope account.
 
@@ -62,18 +74,14 @@ From experience, eager students with a strong quantitative background are able t
 
 **Course Grade**: The course grade will be based on the following components.
 
-- 5 Homework Assignments (45%): HW0 (5%), HW1 - HW4 (40%)
-- Concept Quizzes (15%)
+- Homework Assignments (40%, 4 @ 10% each)
+- Concept Quizzes (15%, 5 @ 3% each)
+- Attendance at guest lectures (5%, 4 @ 1.25% each)
 - Final Project (40%): Project midway (8%), Project presentation (8%), Project report (24%)
 
 **Textbooks**:
-- [Probabilistic Machine Learning](https://probml.github.io/pml-book/): [An Introduction](https://probml.github.io/pml-book/book1.html); Kevin Murphy
+- [Time Series Analysis and Its Application](https://link.springer.com/book/10.1007/978-3-319-52452-8); Schumway & Stoffer
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/): [Advanced Topics](https://probml.github.io/pml-book/book2.html); Kevin Murphy
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (12th printing)](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf);
- Trevor Hastie, Robert Tibshirani, Jerome Friedman
-
-**Other references**:
-- [A Course in Machine Learning](http://ciml.info); Hal Duame III
-- Pattern Recognition and Machine Learning; Chris Bishop
-- Machine Learning; Tom Mitchell
-- Information Theory, Inference, and Learning Algorithms; David MacKay
+- [Deep Learning](https://www.deeplearningbook.org/contents/rnn.html); Goodfellow, Bengio, Courville
+- Optional: [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1); Lutkepohl
+- Optional: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf); Bishop
