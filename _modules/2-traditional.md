@@ -1,10 +1,10 @@
 ---
-title: Week 2,3,4 - Traditional Time Series Methods
+title: Week 2,3,4 - Traditional time series methods
 ---
 
 Oct 2
 : **Lecture 2**{: .label .label-purple }
-: **CQ1 out**{: .label .label-green }
+: **CQ1 out (stationarity, ACF, basic models)**{: .label .label-green }
 : * Stationarity, autocorrelation
   * Foundational stationary time series models -- Part 1 (AR and MA processes)
   * Reading:
@@ -29,9 +29,9 @@ Oct 9
 
 Oct 11
 : **Lecture 5**{: .label .label-purple }
-  : **HW1 due**{: .label .label-orange }
-  : **HW2 out**{: .label .label-orange }
-  : **CQ2 out**{: .label .label-green }
+: **HW1 due**{: .label .label-orange }
+: **HW2 out (ARIMA, forecasting, SSMs, HMMs)**{: .label .label-orange }
+: **CQ2 out (ARMA, ARIMA, SSM, HMM)**{: .label .label-green }
 : * State space models (SSMs)
   * Kalman filtering/smoothing
   * Dynamic latent factor models
@@ -48,11 +48,11 @@ Oct 16
   * Reading:
       1. S&S 6.3, 6.9
       2. Murphy 29.1-29.4.2; 9.2
-      3. Bishop 13.2-13.3 (cont'd); 9.2-9.3 (EM background)
+      3. (optional) Bishop 13.2-13.3 (cont'd); 9.2-9.3 (EM background)
 
 Oct 18
 : **Lecture 7**{: .label .label-purple }
-  : **CQ2 due**{: .label .label-green }
+: **CQ2 due**{: .label .label-green }
 : * Learning SSMs cont'd (EM algorithm)
   * Switching SSMs
   * Reading:

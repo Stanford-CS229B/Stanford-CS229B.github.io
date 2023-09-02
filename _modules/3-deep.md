@@ -1,10 +1,10 @@
 ---
-title: Week 5 - Traditional Time Series Methods
+title: Week 6 - Deep learning-based sequence models
 ---
 
 Oct 23
 : **Lecture 8**{: .label .label-purple }
-  : **project proposal due**{: .label .label-red }
+: **project proposal due**{: .label .label-red }
 : * Refresher on feedforward neural networks, backpropagation
   * Autoregressive and recurrent neural networks (RNNs)
   * Reading:
@@ -13,7 +13,7 @@ Oct 23
 
 Oct 25
 : **Lecture 9**{: .label .label-purple }
-  : **CQ3 out**{: .label .label-green }
+: **CQ3 out (RNN, BPTT, CNN, transformers)**{: .label .label-green }
 : * Backpropagation through time
   * Gated RNNs (LSTMs, GRUs)
   * Reading:
@@ -24,9 +24,10 @@ Oct 25
       5. (optional) [N-BEATS](https://arxiv.org/pdf/1905.10437.pdf)
 
 Oct 30
-: **Lecture 9**{: .label .label-purple }
+: **Lecture 10**{: .label .label-purple }
 : * Refresher on convolutional neural networks (CNNs)
-  * CNNs for sequential data; Transformers
+  * CNNs for sequential data
+  * Transformers
   * Reading:
       1. GBC Ch. 9
       2. (optional) [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
