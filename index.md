@@ -82,6 +82,6 @@ From experience, eager students with a strong quantitative background are able t
 **Textbooks**:
 - [Time Series Analysis and Its Application](https://link.springer.com/book/10.1007/978-3-319-52452-8); Schumway & Stoffer
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/): [Advanced Topics](https://probml.github.io/pml-book/book2.html); Kevin Murphy
-- [Deep Learning](https://www.deeplearningbook.org/contents/rnn.html); Goodfellow, Bengio, Courville
+- [Deep Learning](https://www.deeplearningbook.org/); Goodfellow, Bengio, Courville
 - Optional: [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1); Lutkepohl
 - Optional: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf); Bishop
