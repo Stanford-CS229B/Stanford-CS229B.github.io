@@ -19,7 +19,9 @@ If you feel that we have made an error in grading your homework assignment or co
 
 ## Late day policy
 
-- Every student is allotted 3 free LATE DAYs throughout the entire quarter, which may be used on homework assignments, the project proposal, or project milestone.  (Late days cannot be used for the final project report or poster due to grading constraints.)
+- Every student is allotted 3 free LATE DAYs throughout the entire quarter, which may be used on homework assignments, the project proposal, or project milestone.
+  - Late days cannot be used for the final project report or poster due to grading constraints.
+  - Late days cannot be used for concept quizzes.
 - After these late days are exhausted, late assignments will incur a reduction of 33% in the final score for each day (or part thereof) it is late. For example, if an assignment is up to 24 hours late, it incurs a penalty of 33%. Else if it is up to 48 hours late, it incurs a penalty of 66%. And if it is 72 or more hours late, it will receive no credit.
 - You must turn in all homework assignments, even if for zero credit, in order to pass the course.
 
