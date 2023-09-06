@@ -4,7 +4,7 @@ title: Week 2,3,4 - Traditional time series methods
 
 Oct 2
 : **Lecture 2**{: .label .label-purple }
-: **CQ1 out (stationarity, ACF, basic models)**{: .label .label-green }
+: **CQ1 out**{: .label .label-green }
 : * Stationarity, autocorrelation
   * Foundational stationary time series models -- Part 1 (AR and MA processes)
   * Reading:
@@ -30,8 +30,8 @@ Oct 9
 Oct 11
 : **Lecture 5**{: .label .label-purple }
 : **HW1 due**{: .label .label-orange }
-: **HW2 out (ARIMA, forecasting, SSMs, HMMs)**{: .label .label-orange }
-: **CQ2 out (ARMA, ARIMA, SSM, HMM)**{: .label .label-green }
+: **HW2 out**{: .label .label-orange }
+: **CQ2 out**{: .label .label-green }
 : * State space models (SSMs)
   * Kalman filtering/smoothing
   * Dynamic latent factor models

@@ -14,8 +14,8 @@ Oct 23
 Oct 25
 : **Lecture 9**{: .label .label-purple }
 : **HW2 due**{: .label .label-orange }
-: **HW3 out (switching SSMs, RNNs, BPTT, convolutional models, transformers)**{: .label .label-orange }
-: **CQ3 out (RNN, BPTT, CNN, transformers)**{: .label .label-green }
+: **HW3 out**{: .label .label-orange }
+: **CQ3 out**{: .label .label-green }
 : * Backpropagation through time
   * Gated RNNs (LSTMs, GRUs)
   * Reading:

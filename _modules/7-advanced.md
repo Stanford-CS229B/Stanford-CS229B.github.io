@@ -9,7 +9,7 @@ Nov 27
 Nov 29
 : **Lecture 17**{: .label .label-purple }
 : **HW4 due**{: .label .label-orange }
-: **CQ5 out (neural TPPs and ODEs)**{: .label .label-green }
+: **CQ5 out**{: .label .label-green }
 : * Hybrid / gray-box models, structured neural sequence models
 
 Dec 4

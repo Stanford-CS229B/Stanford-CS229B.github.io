@@ -5,8 +5,8 @@ title: Week 7,8 - Continuous-time modeling
 Nov 8
 : **Lecture 13**{: .label .label-purple }
 : **HW3 due**{: .label .label-orange }
-: **HW4 out (representation learning, S4, Hawkes processes, neural ODEs)**{: .label .label-orange }
-: **CQ4 out (representation learning, S4, point processes)**{: .label .label-green }
+: **HW4 out**{: .label .label-orange }
+: **CQ4 out**{: .label .label-green }
 : * Event-based sequence models (Poisson processes, Hawkes processes)
   * Reading:
       1. (optional) [Poisson processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/3a19ce0e02d0008877351bfa24f3716a_MIT6_262S11_chap02.pdf) 
