@@ -12,6 +12,7 @@ Oct 2
 
 Oct 4
 : **Lecture 3**{: .label .label-purple }
+: **HW1 Part 1 (prereqs) due**{: .label .label-orange }
 : **CQ1 due**{: .label .label-green }
 : * Foundational stationary time series models -- Part 2 (ARMA processes)
   * Forecasting
@@ -29,7 +30,7 @@ Oct 9
 
 Oct 11
 : **Lecture 5**{: .label .label-purple }
-: **HW1 due**{: .label .label-orange }
+: **HW1 Part 2 due**{: .label .label-orange }
 : **HW2 out**{: .label .label-orange }
 : **CQ2 out**{: .label .label-green }
 : * State space models (SSMs)
