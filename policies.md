@@ -25,6 +25,14 @@ If you feel that we have made an error in grading your homework assignment or co
 - After these late days are exhausted, late assignments will incur a reduction of 33% in the final score for each day (or part thereof) it is late. For example, if an assignment is up to 24 hours late, it incurs a penalty of 33%. Else if it is up to 48 hours late, it incurs a penalty of 66%. And if it is 72 or more hours late, it will receive no credit.
 - You must turn in all homework assignments, even if for zero credit, in order to pass the course.
 
+## Generative AI policy
+Each student is expected to submit their own solutions to concept quizzes, homeworks, and exams. 
+You may use generative AI tools such as Co-Pilot and ChatGPT by asking them questions as would a software engineer. 
+The use of generative AI tools to substantially complete an assignment or exam (e.g. by directly copying) is strictly prohibited and will result in honor code violations. 
+Please refer to [Stanford's Generative AI Policy Guidelines](https://communitystandards.stanford.edu/generative-ai-policy-guidance) for more details.
+
+Anyone violating the honor code policy will be referred to the Office of Judicial Affairs. If you think you violated the policy (it can happen, especially under time pressure!), please reach out to us; the consequences will be much less severe than if we approach you.
+
 ## General course policies
 
 - Gender expression/identity: This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me.
