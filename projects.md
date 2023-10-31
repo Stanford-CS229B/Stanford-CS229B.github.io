@@ -153,41 +153,33 @@ method) to do blind deconvolution on a synthetic or real-world dataset.
     - Probabilistic inference
 
 ### Explainability in Sequence Models
-
-The rising complexity and adoption of deep learning models, particularly sequence models, in critical domains like
-healthcare, finance, and criminal justice, have intensified the need for model explainability to ensure transparent,
-fair, and accountable AI systems. The goal of this project is to explore and extend existing methods that interpret and
-visualize the decision-making process of sequence models. Create methods that illuminate which parts of an input
-sequence (e.g., words in a sentence) a model is focusing on when making predictions. Extend SHAP (SHapley Additive
-exPlanations) or LIME (Local Interpretable Model-agnostic Explanations) to sequence models like RNNs and Transformers.
-Use real-world datasets, like sentiment analysis or document classification, to visualize which parts of the input
-sequences are most influential for predictions.
-
+- The rising complexity and adoption of deep learning models, particularly sequence models, in critical domains like healthcare and finance, have intensified the need for model explainability to ensure transparent, fair, and accountable AI systems. The goal of this project is to explore existing explainability methods with sequence models. Fit a sequence model on a couple of datasets (simulated or real-world), and compare and contrast FIT, an explainability method specifically designed for temporal data, with at least two other baseline methods (e.g. Deep-Lift, Integrated gradient, LIME, Feature Occlusion). Examine the results by visualizing which parts of the input sequences are most influential for predictions.
 - Background
-    - https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf
-    - https://arxiv.org/pdf/2104.14403.pdf
+  - FIT (https://arxiv.org/pdf/2003.02821.pdf; https://github.com/sanatonek/time_series_explainability/tree/master)
+  - Deep-Lift (https://arxiv.org/pdf/1704.02685.pdf)
+  - Integrated gradient (https://arxiv.org/pdf/1703.01365.pdf)
+  - LIME (https://arxiv.org/pdf/1602.04938.pdf)
+  - Feature Occlusion (https://arxiv.org/pdf/1705.08498.pdf)
+  - See https://captum.ai/api/ for implementation of baseline methods
 - Methods
-    - Recurrent neural networks, Transformers
-    - Feature attribution, Interpretability
+  - Recurrent neural networks, Transformers
+  - Explainability methods
 - Example Dataset
-    - https://ai.stanford.edu/~amaas/data/sentiment/
+  - https://ai.stanford.edu/~amaas/data/sentiment/
+  - Other datasets used in selected papers above
 
 ### Multimodal Sequence Modeling
-
-Multimodal sequence modeling, which involves integrating information from diverse data sources like text, audio, and
-images, is pivotal in harnessing the full spectrum of insights embedded in complex, real-world data. The goal of this
-project is to explore existing or develop new methods for integrating and analyzing diverse data types such as text,
-audio, and images in a unified model, aiming to uncover complex patterns and relationships and enhance the model's
-performance in various applications.
-
+- Multimodal sequence modeling, which involves integrating information from diverse data sources like text, audio, and images, is pivotal in harnessing the full spectrum of insights embedded in complex, real-world data. It poses several challenges, including the alignment of different modalities, the fusion of heterogeneous data sources, the management of disparate data dimensions and temporal resolutions. The goal of this project is to explore methods for integrating and analyzing diverse data types, such as text, audio, and images, in a unified model. Choose a multimodal sequence model (or propose your own architecture) and apply it to a multimodal dataset. Design experiments to examine how using multiple modalities, in contrast to using each of the modalities alone, affects the performance of your model. An ideal comparison should consider the model size, dataset size, and computational costs.
 - Background
-    - https://people.csail.mit.edu/khosla/papers/icml2011_ngiam.pdf
-    - https://arxiv.org/pdf/1906.00295.pdf
-    - https://arxiv.org/abs/2302.14045
+  - m-RNN (https://arxiv.org/pdf/1412.6632.pdf; https://github.com/mjhucla/TF-mRNN)
+  - MulT (https://arxiv.org/pdf/1906.00295.pdf; https://github.com/yaohungt/Multimodal-Transformer)
+  - MultiModal-InfoMax (https://arxiv.org/pdf/2109.00412.pdf; https://github.com/declare-lab/MSA-Robustness/tree/2466d33c767411f6490c8c022666e8d9167696b9/Multimodal-Infomax)
 - Methods
-    - Deep learning
+  - Recurrent neural networks, Transformers 
 - Example Dataset
-    - https://github.com/drmuskangarg/Multimodal-datasets
+  - https://github.com/drmuskangarg/Multimodal-datasets
+  - http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/
+  - Other datasets used in selected papers above
 
 ### Comparing Discrete and Continuous-Time Models for Sequential Data
 
