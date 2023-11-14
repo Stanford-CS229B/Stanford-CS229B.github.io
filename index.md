@@ -77,7 +77,7 @@ From experience, eager students with a strong quantitative background are able t
 - Homework Assignments (40%, 4 @ 10% each)
 - Concept Quizzes (15%, 5 @ 3% each)
 - Attendance at guest lectures (5%, 4 @ 1.25% each)
-- Final Project (40%): Project midway (8%), Project presentation (8%), Project report (24%)
+- Final Project (40%): Project midway (10%), Project presentation (10%), Project report (20%)
 
 **Textbooks**:
 - [Time Series Analysis and Its Application](https://link.springer.com/book/10.1007/978-3-319-52452-8); Schumway & Stoffer
