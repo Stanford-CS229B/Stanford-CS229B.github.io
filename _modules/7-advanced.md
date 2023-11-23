@@ -3,8 +3,8 @@ title: Week 10,11 - Advanced topics
 ---
 
 Nov 27
-: **Lecture 16**{: .label .label-purple }
-: * Special Time: 9am PT, Guest Lecture: TBA – Oriol Vinyals
+: **Lecture 16**{: .label .label-purple } **Canceled**
+: * ~~Special Time: 9am PT, Guest Lecture: TBA – Oriol Vinyals~~
 
 Nov 29
 : **Lecture 17**{: .label .label-purple }
