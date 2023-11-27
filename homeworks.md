@@ -18,4 +18,4 @@ nav_order: 3
 - Homework 1 (ML/Stats prereqs), due 10/4; Homework 1 (time series basics, autoregressive and moving average processes), due 10/11
 - Homework 2 (ARIMA models, forecasting, state space models), due 10/25
 - Homework 3 (RNNs, convolutional models, transformers), due 11/8
-- Homework 4 (Representation learning, continuous-time neural models), due 11/29
+- Homework 4 (Representation learning, continuous-time neural models), due 12/01
