@@ -235,3 +235,61 @@ modelling capacity).
     - S4, HiPPO
 - Datasets
     - See datasets in selected papers above
+
+### Energy forecasting
+This project is taken from a Kaggle contest run by the IEEE Power and Energy society. The goal is to predict the total energy load for a US utility across multiple zones, as well as the sum of the energy load across all these zones, based on temperature data.
+
+- Data: datasets
+
+- Task: Predict the hourly energy load across different zones of the US. (Note that the labels for the weeks meant to be predicted in the original contest are no longer available, so you should choose a random subset of other weeks to use as a test set.)
+
+- Background: https://www.kaggle.com/competitions/global-energy-forecasting-competition-2012-load-forecasting/overview/description
+
+- Methods: HMM, state space models (see https://robjhyndman.com/papers/kaggle-competition.pdf for another team’s approach).
+
+### Neuroscience
+(Neural Dynamics and Functional Connectivity) In addition to studying neural dynamics, a large research area in neuroscience is understanding how neural systems interact with each other. This is useful in understanding the pathways involved when the brain executes a complex task. Given time series data about the activity in each region of the brain, for example, EEG data or functional MRI data, how can you determine which signals in a certain system affect other signals in a different region of the brain? Granger causality is a way of inferring lagged, directed connections between regions. Graphical models can uncover instantaneous, undirected connectivity. A project here would be to learn about these types of methods and apply them to a neuroscience (or other proxy) dataset.
+
+- Datasets: https://www.ieeg.org
+
+- Background references: 
+  - https://www.sciencedirect.com/science/article/pii/S0959438818301570?via%3Dihub
+  - https://arxiv.org/abs/2105.02675
+
+- Papers that are examples of the project ideas above:
+
+  - https://arxiv.org/abs/1402.6951
+  - https://arxiv.org/pdf/1802.05842.pdf
+  - https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1476238
+
+### Environmental Data
+
+(Air Quality Index data) The Air Quality Index is a measure that is important not only in California but in other large metropolitan areas with high smog rates. It’s important to forecast the air quality index in a specific location, say Santa Clara county, so that at-risk populations can prepare. Can you use the time series models we studied in class to forecast AQI? How would you incorporate the spatio temporal aspect of the data? Using AQI data in adjacent locations might help in time series forecasting; how would you incorporate this in your model? Can you use other information such as wildfire data or weather data to help forecast AQI?
+
+(Global Temperature Forecasting) The IPCC released an unequivocal 2021 report on the human impacts on global warming: there is little doubt that the past century of unprecedented warming has been a result of human activity. Using historical temperature data, can basic time series methods quantify how unusual the past century of warming has been? Another aspect of the project is to forecast temperatures beyond the current year; can these be improved using auxiliary data such as human industrial activity, carbon emissions, or certain weather patterns like El Nino? How do your methods compare to the estimates given in the IPCC report; do they improve those predictions in any way?
+
+- Data sources:
+  - https://www.epa.gov/outdoor-air-quality-data
+  - https://climatedataguide.ucar.edu/climate-data/global-temperature-data-sets-overview-comparison-table
+
+- References:
+
+  - Intelligent modeling strategies for forecasting air quality time series: A review, Liu et al. 2021
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6164777/
+
+### Financial Time Series
+
+(Stochastic Volatility) Practitioners also care a lot about forecasting volatility, which is the variance of stock prices. Higher volatility is useful for financial institutions as trading during those periods can mean increased opportunities; it also provides increased liquidity to exit out of large positions. Volatility is also intimately related with option pricing. A common time series model for volatility is the GARCH family of models. A project here would learn about and present GARCH modeling (which is a topic we have not covered in class), apply it to forecasting the variance of a certain asset, or other financial time series (stock price volatility, interest rates, etc). For example, fit an ARCH and GARCH model to your selected data. How does this compare to using methods we have seen in class, including ARMA models, state space models, etc?
+
+(Pairs Trading) A certain strategy called pairs trading tries to capitalize on short term price dispersions between assets that should behave similarly. For example, stocks in the same industry selling similar products are expected to behave similarly, statistically speaking. When the prices diverge, you place a bet that they will eventually converge again and behave similarly. There are multiple ways of quantifying similarity between time series. For example, price difference / price ratio can be modeled by a stationary, mean reverting process, such as an OU process (a type of Gaussian process). A project here could be to identify such a pairs trade, fit an OU process model to it, and test whether the difference reverts to the mean frequently. Can you forecast the next reversion time? Another related project is to identify good pairs trades by statistical tests, such as Cross correlation, Cointegration, or Granger causality. You would learn about and apply these concepts to finding such trades. How do each of these methods compare for generating good pairs trades?
+
+- Data sources: Google Finance, Yahoo Finance.
+
+- References:
+
+  - For GARCH modeling: See ch. 5 of textbook “Statistics and Data Analysis for Financial Engineering: With R Examples, Ruppert and Matteson”.
+  - For a survey of GARCH usage in finance and econometrics, see “Garch 101: The use of ARCH/GARCH Models in Applied Econometrics, Engle 2001".
+  - For pairs trading, the below articles provide an implementation overview of the strategy. There are also academic papers linked within these sources.
+    - https://quantpedia.com/strategies/pairs-trading-with-stocks/
+    - https://hudsonthames.org/an-introduction-to-cointegration/
+    - https://hudsonthames.org/optimal-stopping-in-pairs-trading-ornstein-uhlenbeck-model/
